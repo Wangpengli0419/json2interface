@@ -1,0 +1,2 @@
+# json2interface
+将json转换为typescript中的interface
